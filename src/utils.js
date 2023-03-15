@@ -1,4 +1,5 @@
-const formatMessage = (io, sessionId, formatedMessage, message, data) => {
+const formatMessage = (io, sessionId, message, data) => {
+  let formatedMessage = []
   let errorMessage = {
     type: "bot",
     message
@@ -7,6 +8,6 @@ const formatMessage = (io, sessionId, formatedMessage, message, data) => {
     formatedMessage.push(data)
   }
   formatedMessage.push(errorMessage)
-  io.to(sessionId).emit('message', formatedMessage)
+  io.to(sessionId).emit('user-message', formatedMessage)
 }
 module.exports = formatMessage
