@@ -12,9 +12,7 @@ const corsConfig = {
   origin: "http://localhost:3000",
   credentials: true,
 };
-const io = new Server(server, {
-  cors: corsConfig,
-});
+const io = new Server(server);
 const sessionMiddleware = session({
   secret: 'my secret',
   resave: false,
