@@ -13,6 +13,11 @@ A real time restaurant chatbot app where users can order food place an order, ch
 
 </div>
 
+## How it works
+* Front-End: React.js, localstorage
+* Back-End: Node.js / Express.js / Socket.io
+* Hosting: Heroku
+
 ## CLONE THIS REPO
 ```sh
 git clone https://github.com/Proton2-Limitless/chatBot
@@ -91,5 +96,5 @@ When you open the chatbot, you will see the main menu. The main menu includes th
 👤 **Habib Yusuf**
 
 - Twitter: [@Habib Yusuf](https://twitter.com/yusufha37921319)
-- Github: [@Proton2-Limitless](https://github.com/Proton2-Limitless/chatBot)
+- Github: [@Proton2-Limitless](https://github.com/Proton2-Limitless)
 - LinkedIn: [@Yusuf Habib](https://linkedin.com/in/yusuf-habib-8465171b4)
