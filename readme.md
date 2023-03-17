@@ -85,7 +85,7 @@ When you open the chatbot, you will see the main menu. The main menu includes th
 
 #### Current Order
 
-    To see your current order, select 98 on the provided input field to see your current order items, if empty you will be prompted to type 1 to place an order.
+    To see your current order, select 98 on the provided input field to see your current order items, if empty you will be prompted to type 1 to place a new order.
 
 #### Cancel Order
 
