@@ -9,7 +9,6 @@ A real time restaurant chatbot app where users can order food place an order, ch
 ![Javascript][javascript]
 ![Node.js][node]
 ![Express.js][express]
-![express-session][session]
 
 </div>
 
@@ -98,3 +97,13 @@ When you open the chatbot, you will see the main menu. The main menu includes th
 - Twitter: [@Habib Yusuf](https://twitter.com/yusufha37921319)
 - Github: [@Proton2-Limitless](https://github.com/Proton2-Limitless)
 - LinkedIn: [@Yusuf Habib](https://linkedin.com/in/yusuf-habib-8465171b4)
+
+
+<!-- Markdown Links & Images -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/Proton2-Limitless/blogolicious.svg?style=for-the-badge
+[contributors-url]: https://github.com/Proton2-Limitless/blogolicious/graphs/contributors
+[javascript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1C
+[node]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[express]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
+[mongodb]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
